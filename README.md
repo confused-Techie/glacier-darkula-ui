@@ -1,6 +1,13 @@
-## Glacier Dark UI Theme 
+# Glacier Darkula UI Theme for [Atom](https://atom.io)
 
-> Glacier Dark UI inspired Glacier UI by @mattgraham and @joeyfigaro's Glacier for Sublime.
-> Forked from atom/one-dark-ui.
+> A dark ui theme for Atom, best used with [Glacier Darkula Syntax](https://github.com/pit00/glacier-darkula-syntax).
 
-![glacier-dark-ui](https://cloud.githubusercontent.com/assets/7255268/13030587/af12d9f4-d2b0-11e5-9c7c-bf33bc7b8954.png)
+![Screenshot](https://i.imgur.com/j9vp0tw.png)
+
+## Credits
+Based on [Glacier Dark UI](https://github.com/berlouz/glacier-dark-ui)
+
+Edited by Pitu :metal:
+
+## License
+[MIT License](./LICENSE)

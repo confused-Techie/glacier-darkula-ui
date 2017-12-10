@@ -2,14 +2,9 @@
   "name": "glacier-darkula-ui",
   "theme": "ui",
   "version": "1.0.4",
-  "description": "Atom glacier darkula ui",
-  "keywords": [
-    "dark",
-    "adaptive",
-    "ui"
-  ],
-  "license": "MIT",
+  "description": "A dark ui theme, best used with Glacier Darkula Syntax.",
   "repository": "https://github.com/pit00/glacier-darkula-ui",
+  "license": "MIT",
   "main": "lib/main",
   "engines": {
     "atom": ">0.40.0"
